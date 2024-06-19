@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @C0oki3s-jar
-- 👀 I’m interested in ... Full stack
+- 👀 I’m interested in ... ML
 - 🌱 I’m currently learning ... Web3 Full stack dev   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
